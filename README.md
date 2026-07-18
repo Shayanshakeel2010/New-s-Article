@@ -21,12 +21,7 @@ A simple and stylish **News Article Website** built using **HTML** and **CSS**. 
 🌐 **Live Demo:**  
 https://news-article-css.netlify.app/
 
-## 🚀 Deployment
 
-This project is deployed on **Netlify**.
-
-🔗 **Netlify Dashboard:**  
-https://app.netlify.com/projects/news-article-css/overview
 
 ## 📚 What You Will Learn
 
