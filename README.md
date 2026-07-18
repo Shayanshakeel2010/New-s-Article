@@ -31,13 +31,11 @@ https://news-article-css.netlify.app/
 - How to create and style hyperlinks
 - Basic webpage layout and styling techniques
 
-## 📷 Screenshot
 
-_Add a screenshot of your project here if available._
 
 ## 👨‍💻 Author
 
-**Aaliyan**
+**Shayan**
 
 ---
 
